@@ -2,3 +2,14 @@
     background-color: black;
     color: white;
 }
+
+.click2 {
+    background-color: yellow;
+    color: black;
+}
+
+
+.click1, .click2 {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
